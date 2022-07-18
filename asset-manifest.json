@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cheeka-s-Check-List/static/css/main.cca62b40.css",
+    "main.js": "/Cheeka-s-Check-List/static/js/main.d46a45d5.js",
+    "static/js/787.e8e826a5.chunk.js": "/Cheeka-s-Check-List/static/js/787.e8e826a5.chunk.js",
+    "index.html": "/Cheeka-s-Check-List/index.html",
+    "main.cca62b40.css.map": "/Cheeka-s-Check-List/static/css/main.cca62b40.css.map",
+    "main.d46a45d5.js.map": "/Cheeka-s-Check-List/static/js/main.d46a45d5.js.map",
+    "787.e8e826a5.chunk.js.map": "/Cheeka-s-Check-List/static/js/787.e8e826a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cca62b40.css",
+    "static/js/main.d46a45d5.js"
+  ]
+}
